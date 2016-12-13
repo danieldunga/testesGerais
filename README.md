@@ -1,2 +1,2 @@
 # testesGerais
-Repositário usado para testes gerais em Java
+Usado para testes gerais em Java
