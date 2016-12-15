@@ -14,7 +14,9 @@ public class TesteBigDecimal {
 			System.out.println("b é maior que a ");
 		}
 
-		// Teste git
+		// Teste git - linha de comando
+		// Agora dentro do Eclipse, mas sem exportar direto do Git
+		
 		
 	}
 
