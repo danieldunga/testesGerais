@@ -13,11 +13,6 @@ public class TesteBigDecimal {
 		} else {
 			System.out.println("b é maior que a ");
 		}
-
-		// Teste git - linha de comando
-		// Agora dentro do Eclipse, mas sem exportar direto do Git
-		
-		
 	}
 
 }

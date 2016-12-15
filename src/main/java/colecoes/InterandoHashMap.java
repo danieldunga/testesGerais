@@ -24,7 +24,6 @@ public class InterandoHashMap {
 		}
 		System.out.println(buffer);
 		
-		// Teste Git
 	}
 
 }
