@@ -23,6 +23,8 @@ public class InterandoHashMap {
 		    buffer.append(key + ":" + value + "|");
 		}
 		System.out.println(buffer);
+		
+		// Teste Git
 	}
 
 }
