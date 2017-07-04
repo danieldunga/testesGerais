@@ -1,0 +1,16 @@
+<html>
+	<head>
+		<script type="text/javascript">
+			function validaZeros(valor) {
+				alert(apenasZeors(valor));
+			}
+			function apenasZeors(valor) {
+			  var er = /^[0]+$/;
+			  return (er.test(valor));
+			}
+		</script>
+	</head>
+	<body>
+		<input id="campo" name="campo" onblur="javaScript:validaZeros(this.value);"/>
+	</body>		
+</html>
