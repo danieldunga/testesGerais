@@ -11,7 +11,7 @@ public class SubString {
 		
 		
 		if (conta1.equals(conta2)) {
-			System.out.println("comparação normal OK");
+			System.out.println("comparaÃ§Ã£o normal OK");
 		}
 
 		String subConta1 = "";

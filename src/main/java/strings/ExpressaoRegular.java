@@ -4,7 +4,7 @@ public class ExpressaoRegular {
 
 	public static void main(String[] args) {
 
-		// aceita todos os números, letras e . _ e -
+		// aceita todos os nÃºmeros, letras e . _ e -
 		String padrao = "[a-zA-Z0-9._-]+";
 		
 		String teste1 = "asdf";

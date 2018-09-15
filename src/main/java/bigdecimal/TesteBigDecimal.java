@@ -9,9 +9,9 @@ public class TesteBigDecimal {
 		BigDecimal b = new BigDecimal(70);
 		
 		if (a.compareTo(b) >= 0) {
-			System.out.println("a é maior ou igual a b");
+			System.out.println("a Ã© maior ou igual a b");
 		} else {
-			System.out.println("b é maior que a ");
+			System.out.println("b Ã© maior que a ");
 		}
 	}
 

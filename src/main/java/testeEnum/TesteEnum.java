@@ -18,9 +18,9 @@ public class TesteEnum {
 //		}
 		
 		if (new TesteEnum().verificarBUS_09(BUS.BUS_09)) {
-			System.out.println("é BUS 09");
+			System.out.println("BUS 09");
 		} else { 
-			System.out.println("é BUS 10");
+			System.out.println("BUS 10");
 		}
 		
 	}

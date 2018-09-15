@@ -26,7 +26,7 @@ public class TesteOrdena {
 		
 		vo[3] = new OrdenaVO();
 		vo[3].setNumero(3);
-		vo[3].setTexto("Três");
+		vo[3].setTexto("TrÃªs");
 		vo[3].setData(new Date(73,3,3));
 		
 		vo[4] = new OrdenaVO();

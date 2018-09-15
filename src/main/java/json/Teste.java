@@ -85,7 +85,7 @@ public class Teste {
 			responseVO.setIndicatorUnblock(accountData.getString("indicatorUnblock"));
 			responseVO.setReasonBlock(accountData.getInt("reasonBlock"));
 			
-			// Obter as transações
+			// Obter as transacÃµeses
 			ArrayList<TransactionDataVO> listTransactions = new ArrayList<TransactionDataVO>();
 			JSONArray transactions = accountData.getJSONArray("transactionData");
 			if (transactions != null) {
