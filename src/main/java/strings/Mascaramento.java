@@ -32,7 +32,7 @@ public class Mascaramento {
 			}
 			masked = temp.toString();
 		} else {
-			// TODO - LOG - Não foi possivel fazer o mascaramento
+			// TODO - LOG - NÃ£o foi possivel fazer o mascaramento
 		}
 		
 		

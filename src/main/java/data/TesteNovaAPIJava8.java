@@ -89,16 +89,16 @@ public class TesteNovaAPIJava8 {
 		        .build();  
 		
 		if (TimeZone.getDefault().inDaylightTime(new Date())) {
-			System.out.println("Estamos em horário de verão.");
+			System.out.println("Estamos em horÃ¡rio de verÃ£o.");
 		} else {
-			System.out.println("Não estamos em horário de verão.");
+			System.out.println("NÃ£o estamos em horÃ¡rio de verÃ£o.");
 		}
 		
 		
 		System.out.println(Instant.now());
 		System.out.println(LocalDateTime.now());
 		
-		// GTM -3:00 horário de Brasília.
+		// GTM -3:00 horï¿½rio de Brasï¿½lia.
 //		SimpleTimeZone stz = new SimpleTimeZone(0, "Etc/GMT-3");
 		SimpleTimeZone stz = new SimpleTimeZone(-3 * 60 * 60 * 1000, "America/Sao_Paulo");
 //		stz.setStartRule(dataInicio.get(Calendar.MONTH), dataInicio.get(Calendar.DAY_OF_MONTH), 1); //  1 milisegundo  

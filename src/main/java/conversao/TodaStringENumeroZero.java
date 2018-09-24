@@ -5,10 +5,10 @@ public class TodaStringENumeroZero {
 	public static void main(String[] args) {
 		String texto = "321asdf";
 		
-		// Separa caracter de número
+		// Separa caracter de nÃºmero
 		for (char letra : texto.toCharArray()) {
 			if(Character.isDigit(letra)) {
-				System.out.println("Número = " + letra);
+				System.out.println("NÃºmero = " + letra);
 			} else if (Character.isLetter(letra)) {
 				System.out.println("Letra = " + letra);
 			}
