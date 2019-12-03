@@ -6,7 +6,7 @@ import java.util.Map;
 public class InterandoHashMap {
 
 	public static void main(String[] args) {
-		HashMap<String, Object> map = new HashMap<>();
+		HashMap<String, Object> map = new HashMap<String, Object>();
 
 		map.put("asdf", "1");
 		map.put("asdf1", "11");

@@ -53,7 +53,7 @@ public class JacksonObj2Json {
 		staff.setPosition("Developer");
 		staff.setSalary(new BigDecimal("7500"));
 
-		List<String> skills = new ArrayList<>();
+		List<String> skills = new ArrayList<String>();
 		skills.add("java");
 		skills.add("python");
 
