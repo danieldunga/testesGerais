@@ -1,4 +1,4 @@
-package data;
+package java8;
 
 import java.time.Clock;
 import java.time.Instant;
@@ -20,7 +20,7 @@ import java.util.Locale;
 import java.util.SimpleTimeZone;
 import java.util.TimeZone;
 
-public class TesteNovaAPIJava8 {
+public class Data {
 
 	public static void main(String[] args) throws InterruptedException {
 		
